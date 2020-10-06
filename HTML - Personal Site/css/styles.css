@@ -1,0 +1,27 @@
+
+  body{
+    background-color: #d6e0f0;
+    font-family: cursive;
+  }
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 5%;
+
+  }
+  h1{
+    color: #66BFBF;
+    font-family:  monospace;
+    font-size: 40px;
+  }
+  h3{
+    color: #776d8a;
+    font-family:  monospace;
+    font-size: 20px;
+  }
+  p,li{
+    font-family: cursive;
+  }
